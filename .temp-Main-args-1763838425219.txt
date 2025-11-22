@@ -1,0 +1,14 @@
+--module-path
+"C:\\javafx\\javafx-sdk-21.0.4\\lib"
+--add-modules
+javafx.controls,javafx.fxml
+-Dfile.encoding=UTF-8
+-Dstdout.encoding=UTF-8
+-Dstderr.encoding=UTF-8
+-p
+"C:\\Users\\mechi\\eclipse-workspace\\Semeh\\bin;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx.base.jar;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx.controls.jar;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx.fxml.jar;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx.graphics.jar;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx.media.jar;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx.swing.jar;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx.web.jar;C:\\javafx\\javafx-sdk-21.0.4\\lib\\javafx-swt.jar"
+-classpath
+"C:\\Users\\mechi\\Downloads\\sqlite-jdbc-3.51.0.0.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+-m
+application/application.Main
