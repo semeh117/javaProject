@@ -13,11 +13,9 @@ public class User {
     private String phone;
     private LocalDateTime createdAt;
 
-    // Enum for user roles
-    public enum Role {
-        ADMIN, DOCTOR, NURSE
-    }
-
+    public  enum Role {
+   	 ADMIN,DOCTOR,STAFF,PATIENT
+   	}
     // Constructors
     public User() {
     }
